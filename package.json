@@ -1,7 +1,7 @@
 {
   "name": "react-native-mati-global-id-sdk",
   "title": "React Native Mati Global Id Sdk",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "description": "Mati React Native Plugin",
   "main": "index.js",
   "scripts": {
@@ -28,9 +28,10 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "dependencies": {
+    "react-native-mati-global-id-sdk": "^3.3.3",
     "react-scripts": "^4.0.3"
   },
   "devDependencies": {
-    "expo-module-scripts": "^2.0.0"
+    "expo-module-scripts": "^1.1.0"
   }
 }
